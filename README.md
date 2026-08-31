@@ -41,15 +41,15 @@ My work bridges **DFT → Molecular Dynamics → Machine Learning → Multiscale
 
 ### Materials & Atomistic Simulation
 
-`VASP` · `LAMMPS` · `Quantum ESPRESSO` · `Phonopy` · `ASE` · `MLIP/MTP` · `MACE` · `M3GNet` · `OVITO`
+`VASP` · `LAMMPS` · `Quantum ESPRESSO` · `Phonopy` · `ASE` · `MLIP/MTP` · `MACE` · `M3GNet` · `OVITO` . `GUASSIAN` . `Material-Studio` . `VMD`
 
 ### High-Performance Computing
 
-`MPI` · `OpenMP` · `CUDA` · `SLURM` · `Linux` · `GPU Computing`
+`MPI` · `OpenMP` · `CUDA` · `SLURM` · `Linux` · `GPU Computing` . `BASH`
 
 ### Modeling
 
-`DFT` · `Molecular Dynamics` · `Fracture Mechanics` · `Phase-Field Modeling` · `XDEM` · `Multiscale Modeling`
+`DFT` · `Molecular Dynamics` · `Fracture Mechanics` · `Phase-Field Modeling` · `XDEM` · `Multiscale Modeling` . `Piezo- & Flexoelectricity`
 
 ---
 
