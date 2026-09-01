@@ -1,4 +1,4 @@
-# Hi, I'm Vijay 👋
+# Hi, I'm Vijay Kumar Choyal 👋
 
 ### Computational Materials Scientist | Machine Learning | Scientific Computing
 
