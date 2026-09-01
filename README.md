@@ -37,6 +37,7 @@ My work bridges **DFT → Molecular Dynamics → Machine Learning → Multiscale
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+![pymatgen](https://img.shields.io/badge/pymatgen-3776AB?style=flat&logo=python&logoColor=white)
 
 
 **GNNs · Equivariant Neural Networks · Physics-Informed ML · ML Interatomic Potentials · Regression · Classification**
@@ -47,7 +48,7 @@ My work bridges **DFT → Molecular Dynamics → Machine Learning → Multiscale
 
 ### High-Performance Computing
 
-`MPI` · `OpenMP` · `CUDA` · `SLURM` · `Linux` · `GPU Computing` . `BASH`
+`MPI` · `OpenMP` · `CUDA` · `SLURM` · `Linux` · `GPU Computing` 
 
 ### Modeling
 
